@@ -4,9 +4,9 @@ AutoReply Robot
 This project introduces a kind of "Auto Chat Robot" in a Chinese App named Wechat, which mainly auto reply manager based on Itchat API and Turling robot API. Generally, when the code is executing, user can easily setup several functions in his/her Android or IOS mobile phone. All code is based on Python.
 
 Setup Environment
-Firstly, the Itchat API need to be installed previously.
+Firstly, the Itchat API need to be installed previously(pip need to be install previously).
 
-    sudo apt-get Itchat
+    sudo pip install Itchat
 
 Then, Get Turling Robot APT code
 and replace the key in main.py line 16: KEY = ''.
