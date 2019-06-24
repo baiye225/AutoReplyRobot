@@ -30,15 +30,15 @@ In Wechat, use find user of yourself and type related command to achieve all fun
 A example is shown below:
 
 Main User Interface
- ![image](https://github.com/baiye225/AutoReplyRobot/blob/master/ImageFolder/MainInterface.jpg)
+ ![image](https://github.com/baiye225/AutoReplyRobot/blob/master/Image/MainInterface.jpg)
  
 Open/Close AutoReply Robot
 Activate/Deactivate AutoReply Robot
- ![image](https://github.com/baiye225/AutoReplyRobot/blob/master/ImageFolder/TurnOnOffRobot.jpg)
+ ![image](https://github.com/baiye225/AutoReplyRobot/blob/master/Image/TurnOnOffRobot.jpg)
 
 Add/Delete AutoReply List
 Add/Delete your friend in the list of AutoReply
- ![image](https://github.com/baiye225/AutoReplyRobot/blob/master/ImageFolder/AddUser.jpg)
+ ![image](https://github.com/baiye225/AutoReplyRobot/blob/master/Image/AddUser.jpg)
  
 View Current AutoReply List
 View who is in your list
