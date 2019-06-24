@@ -22,7 +22,7 @@ If the procedure starts at the first time, it will display SQ code to scan by us
 
 In Wechat, use find user of yourself and type related command to achieve all functions. If you type non-function word, it will display main interface to remind you to type several kinds of words to achieve related function
 
-# Please feel free to commend it. This is only a test project. I am look forward to hearing from you!
+# Please feel free to commend it. This is only a test project. Look forward to hearing from you!
 
 
 
