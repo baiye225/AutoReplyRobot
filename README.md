@@ -6,7 +6,7 @@ This project introduces a kind of "Auto Chat Robot" in a Chinese App named Wecha
 Setup Environment
 Firstly, the Itchat API need to be installed previously(pip need to be install previously).
 
-    sudo pip install Itchat
+    sudo pip install itchat
 
 Then, Get Turling Robot APT code
 and replace the key in main.py line 16: KEY = ''.
