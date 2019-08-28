@@ -41,7 +41,7 @@ def text_reply(msg):
 		itchat.send_msg(reply_msg, myUserName)
 
 	# auto_reply from friends command 
-	elif header[robot_reply] and msg['FromUserName'] in header[user_name_list]:
+	elif header['robot_reply'] and msg['FromUserName'] in header['user_name_list']:
 		# Let Turing reply the msg.
 		# Sleep 1 second is not necessary. Just cheat human.
 		time.sleep(2)
@@ -61,7 +61,7 @@ if __name__ == '__main__':
 	header = {
 	'interface_level': 1,	  # user interface level
 	'robot_reply'	 : False, # robot reply switch
-	'user_list'		 : [],	  # general user database
+	'user_list'	 : [],	  # general user database
 	'user_name_list' : [],    # username database <=> msg['FromUserName']
 	'user_status'	 : ""	  # user interface status(drive sub_level function)
 	}
