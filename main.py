@@ -6,7 +6,7 @@ import sys
 import time
 import re
 import requests, json
-import aiml
+
 
 reload(sys)
 sys.setdefaultencoding('utf8')
